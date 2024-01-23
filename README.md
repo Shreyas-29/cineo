@@ -44,6 +44,8 @@ sihasaneshreyas@gmail.com](mailto:sihasaneshreyas@gmail.com) or connect with me 
 
 #### Enjoy using Cineo!
 
+## Screenshots
+
 | Home                                  | Search                                |
 | ------------------------------------- | ------------------------------------- |
 | ![Home](https://github.com/Shreyas-29/cineo/assets/111555846/c10a3f50-08eb-47d5-aa32-c6815019203e) | ![Search](https://github.com/Shreyas-29/cineo/assets/111555846/b218b40d-4ec9-4dad-95c3-22e2542053f5) |
