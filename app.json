@@ -2,7 +2,7 @@
   "expo": {
     "name": "Cineo",
     "slug": "Cineo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./src/assets/images/icon.png",
     "scheme": "myapp",
@@ -20,9 +20,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "foregroundImage": "./src/assets/images/adaptive-icon2.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.shreyas29.Cineo"
     },
     "web": {
       "bundler": "metro",
@@ -35,6 +36,20 @@
     "experiments": {
       "typedRoutes": true,
       "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "549aed9b-79cb-43b7-a485-86ff37dfa690"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/549aed9b-79cb-43b7-a485-86ff37dfa690"
     }
   }
 }
