@@ -42,3 +42,9 @@ For any queries, feel free to contact me at [
 sihasaneshreyas@gmail.com](mailto:sihasaneshreyas@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-sihasane-441b95238/).
 
 #### Enjoy using Cineo!
+
+![Screenshot 1](src/asset/screenshots/home.jpg)
+![Screenshot 2](src/asset/screenshots/search.jpg)
+![Screenshot 3](src/asset/screenshots/watchlist.jpg)
+![Screenshot 4](src/asset/screenshots/profile.jpg)
+![Screenshot 5](src/asset/screenshots/details.jpg)

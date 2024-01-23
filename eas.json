@@ -10,10 +10,17 @@
     },
     "preview": {
       "distribution": "internal",
-      "channel": "preview"
+      "channel": "preview",
+      "android": {
+        "buildType": "apk"
+      }
     },
     "production": {
-      "channel": "production"
+      "channel": "production",
+      "env": {
+        "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_cmVhZHktaWJleC03Ny5jbGVyay5hY2NvdW50cy5kZXYk",
+        "EXPO_PUBLIC_THEMOVIEDB_APIKEY": "1f54bd990f1cdfb230adb312546d765d"
+      }
     }
   },
   "submit": {

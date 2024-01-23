@@ -159,7 +159,7 @@ const Details = () => {
         getWatchlistState();
     }, [data?.id]);
 
-    if (!data) {
+    if (!isLoading && !data) {
         return (
             <View className='items-center flex-1 justify-center bg-[#121212] w-full'>
                 <Text className='text-xl font-[Semibold] text-zinc-200'>
