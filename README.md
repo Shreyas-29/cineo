@@ -4,6 +4,7 @@ Cineo is a movie app built with React Native using the Expo CLI. It provides a r
 
 ## Features
 
+
 - Image Movie Carousel: Browse through your favorite movies with a swipe of your finger.
 - Bottom-Tab Navigation: Easily navigate through the app with the bottom-tab navigation.
 - Pop-up Modal: Get detailed information about a movie in a pop-up modal which can be dragged down to close.
@@ -43,8 +44,9 @@ sihasaneshreyas@gmail.com](mailto:sihasaneshreyas@gmail.com) or connect with me 
 
 #### Enjoy using Cineo!
 
-![Screenshot 1](src/asset/screenshots/home.jpg)
-![Screenshot 2](src/asset/screenshots/search.jpg)
-![Screenshot 3](src/asset/screenshots/watchlist.jpg)
-![Screenshot 4](src/asset/screenshots/profile.jpg)
-![Screenshot 5](src/asset/screenshots/details.jpg)
+![Home](https://github.com/Shreyas-29/cineo/assets/111555846/c10a3f50-08eb-47d5-aa32-c6815019203e)
+![Search](https://github.com/Shreyas-29/cineo/assets/111555846/b218b40d-4ec9-4dad-95c3-22e2542053f5)
+![Watchlist](https://github.com/Shreyas-29/cineo/assets/111555846/325061b2-0a4e-4eb0-aca3-d89950e978e9)
+![Profile](https://github.com/Shreyas-29/cineo/assets/111555846/6527a03f-b4b3-454b-8ab4-9021d964f3c0)
+![Subscription](https://github.com/Shreyas-29/cineo/assets/111555846/79c48a28-ed1a-4a9d-8b6e-8c2120c76d86)
+![Details](https://github.com/Shreyas-29/cineo/assets/111555846/3a580d2e-3f15-4e1a-96a6-83545c7eea17)
