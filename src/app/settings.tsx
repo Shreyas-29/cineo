@@ -114,7 +114,7 @@ const Settings = () => {
                         </Text>
                     </TouchableOpacity>
                     <Text className='text-sm mt-2 font-[Regular] text-gray-400 text-center mt-'>
-                        App Version 1.0.0
+                        App Version 1.0.2
                     </Text>
                 </View>
             </View>
